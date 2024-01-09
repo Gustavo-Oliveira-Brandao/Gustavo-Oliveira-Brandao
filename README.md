@@ -6,7 +6,7 @@ Nesse momento estou cursando Análise e desenvolvimento de sistemas na FIAP. Ten
 
 <h3 align="left">Linguagens de programação e ferramentas:</h3>
 <h3 align="left">Desenvolvimento Web</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bootstrap,figma,ts)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=js,html,css,angular,bootstrap,figma,ts">
 
 <h3 align="left">Desenvolvimento Backend</h3>
 [![My Skills](https://skillicons.dev/icons?i=java,python,cs)](https://skillicons.dev)
