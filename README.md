@@ -11,6 +11,6 @@ Nesse momento estou cursando Análise e desenvolvimento de sistemas na FIAP. Ten
 <h3 align="left">Desenvolvimento Backend</h3>
 <img src="https://skillicons.dev/icons?i=java,python,cs">
 
-Caso possuam interesse em ver algum projeto meu, recomendo verem o Projeto RPG que é o que estou desenvolvendo no momento.
+Caso possuam interesse em ver algum projeto meu, recomendo verem o Projeto RPG que é o meu projeto mais avançado atualmente.
 
 https://github.com/Gustavo-Oliveira-Brandao/Projeto-RPG
