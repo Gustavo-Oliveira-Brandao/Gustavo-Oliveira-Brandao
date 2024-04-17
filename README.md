@@ -23,16 +23,16 @@ O terceiro projeto é um aplicativo de gestão financeira focado em ajudar seus 
 <hr>
 Possuo a meta de finalizar todos eles nesse ano de 2024 ainda, entregando os melhores produtos que eu puder, sempre buscando um código limpo e eficiente.
 
-<h3 align="left">Linguagens de programação e ferramentas:</h3>
-<h3 align="left">Desenvolvimento Web</h3>
+<h2 align="left">Linguagens de programação e ferramentas:</h2>
+<h2 align="left">Desenvolvimento Web</h2>
 <img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap,figma,ts">
 
-<h3 align="left">Desenvolvimento Backend</h3>
+<h2 align="left">Desenvolvimento Backend</h2>
 <img src="https://skillicons.dev/icons?i=java,python,cs">
 
-<h3 align="left">Linguagens de programação e ferramentas caso os icones não carreguem:</h3>
-<h3 align="left">Desenvolvimento Web</h3>
+<h2 align="left">Linguagens de programação e ferramentas caso os icones não carreguem:</h2>
+<h2 align="left">Desenvolvimento Web</h2>
 <h3>HTML, CSS, JAVASCRIPT, ANGULAR, BOOTSTRAP, FIGMA, TYPESCRIPT</h3>
 
-<h3 align="left">Desenvolvimento Backend</h3>
-<h3>Java, Python, C#</h3>
+<h2 align="left">Desenvolvimento Backend</h2>
+<h2>Java, Python, C#</h2>
