@@ -16,6 +16,7 @@ O segundo projeto é um projeto pessoal de um site de criação de personagens p
 <h4>Fintech</h4>
 O terceiro projeto é um aplicativo de gestão financeira focado em ajudar seus usuários a gerenciar seu dinheiro, além de prover dicas de investimento para auxiliar na busca por estabilidade financeira. Esse projeto estará utilizando HTML, CSS, Typescript, Angular, AspNet e provavelmente experimentarei algumas ferramentas SQL diferentes para ele.
 
+<hr>
 Possuo a meta de finalizar todos eles nesse ano de 2024 ainda, entregando os melhores produtos que eu puder, sempre buscando um código limpo e eficiente.
 
 <h3 align="left">Linguagens de programação e ferramentas:</h3>
