@@ -4,6 +4,7 @@ Eu sou o Gustavo e tenho 21 anos, moro em São Paulo desde que nasci e atualment
 
 Nesse momento estou cursando Análise e desenvolvimento de sistemas na FIAP. Possuo preferência por front-end, porém estou almejando alcançar conhecimento fullstack para ser um profissional completo no mercado de T.I.
 
+<h3 align="left">Projetos em desenvolvimento</h3>
 Me encontro atualmente desenvolvendo três projetos dos quais falarei a seguir:
 
 O principal está sendo um projeto grande para a faculdade que envolve o desenvolvimento de um sistema de monitoramento freeflow para a empresa Tecsidel que almeja ser um sistema que reporta status dos equipamentos nos pedágios deles, além de garantir que suas tarefas sejam executadas sem falha. Esse projeto utiliza HTML, CSS, Javascript, React, Java, Oracle SQL Developer e Figma. O código no momento não se encontra público, porém pretendo postar uma vez que a faculdade dê a nota.
