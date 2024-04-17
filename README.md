@@ -2,7 +2,7 @@
 
 Eu sou o Gustavo e tenho 21 anos, moro em São Paulo desde que nasci e atualmente me encontro desenvolvendo minhas habilidades profissionais e aumentando meu leque de ferramentas na área de desenvolvimento.
 
-Nesse momento estou cursando Análise e desenvolvimento de sistemas na FIAP. Tenho um conhecimento vasto de Programação Orientada a Objetos, além de conhecimento intermediário com bancos de dados (mais especificamente ferramentas da Oracle). Tenho preferência por front-end, porém estou almejando alcançar conhecimento fullstack para ser um profissional completo no mercado de T.I.
+Nesse momento estou cursando Análise e desenvolvimento de sistemas na FIAP. Possuo preferência por front-end, porém estou almejando alcançar conhecimento fullstack para ser um profissional completo no mercado de T.I.
 
 Me encontro atualmente desenvolvendo três projetos dos quais falarei a seguir:
 
