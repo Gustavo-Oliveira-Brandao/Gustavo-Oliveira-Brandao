@@ -8,20 +8,19 @@ Nesse momento estou cursando Análise e desenvolvimento de sistemas na FIAP. Pos
 Me encontro atualmente desenvolvendo três projetos dos quais falarei a seguir:
 
 <h3>Sistema de monitoramento freeflow</h3>
-O principal está sendo um projeto grande para a faculdade que envolve o desenvolvimento de um sistema de monitoramento freeflow para a empresa Tecsidel que almeja ser um sistema que reporta status dos equipamentos nos pedágios deles, além de garantir que suas tarefas sejam executadas sem falha. O código no momento não se encontra público, porém pretendo postar uma vez que a faculdade dê a nota.
-
-<h4>Ferramentas utilizadas: HTML, CSS, Javascript, React, Java, Oracle SQL Developer e Figma</h4>
+Esse é um sistema de monitoramento para pedágios da Tecsidel que oferece informações em "tempo real" dos equipamentos do pórtico (cameras, antenas e sensores), além de oferecer outras informações como receita do pórtico e histórico de veículos que passaram pelo rolamento.
+<h4>Ferramentas utilizadas: HTML, CSS, Javascript, Bootstrap, Oracle SQL Data Modeler Figma</h4>
 
 <h3>Projeto RPG</h3>
-O segundo projeto é um projeto pessoal de um site de criação de personagens para RPG de mesa. Por RPG de mesa ser um passamento que eu gosto muito e envolver sistemas complexo na hora de desenvolver uma aplicação completa, decidi iniciá-lo como uma forma de demonstrar meus avanços de conhecimento na área de desenvolvimento Web.
+Projeto RPG é um VTT (Virtual TableTop) que almeja conectar pessoas de diversos lugares em um ambiente único que oferecerá a capacidade de jogar campanhas de RPG de mesa, desde a criação de personagem a até as sessões de roleplay. É o meu projeto mais ambicioso porque se trata de uma plataforma completa como o já existente Roll20. 
 <h4>Ferramentas utilizadas: HTML, CSS, Typescript, Angular, AspNet, Figma e ainda estou escolhendo uma ferramenta para fazer a modelagem e intergração do banco de dados</h4>
 
 <h3>Fintech</h3>
-O terceiro projeto é um aplicativo de gestão financeira focado em ajudar seus usuários a gerenciar seu dinheiro, além de prover dicas de investimento para auxiliar na busca por estabilidade financeira.
+Fintech é um aplicativo de gestão financeira que almeja ajudar pessoas a gerenciarem seu próprio dinheiro através de ferramentas que oferecem uma visão melhor de controle financeiro
 <h4>Ferramentas utilizadas: HTML, CSS, Typescript, Angular, AspNet e provavelmente experimentarei algumas ferramentas SQL diferentes para ele.</h4>
 
 <hr>
-Possuo a meta de finalizar todos eles nesse ano de 2024 ainda, entregando os melhores produtos que eu puder, sempre buscando um código limpo e eficiente.
+Possuo a meta de finalizar todos eles até 2025, entregando os melhores produtos que eu puder, sempre buscando um código limpo e eficiente.
 
 <h2 align="left">Linguagens de programação e ferramentas:</h2>
 <h3 align="left">Desenvolvimento Web</h3>
