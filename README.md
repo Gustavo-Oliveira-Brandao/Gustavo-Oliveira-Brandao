@@ -8,14 +8,14 @@ Após isso, participei de diversos projetos universitários e pessoais na área 
 
 <h2 align="left">Linguagens de programação e ferramentas:</h2>
 <h3 align="left">Desenvolvimento Web</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap,figma,ts">
+<img src="https://skillicons.dev/icons?i=html,css,js,angular,react,bootstrap,figma,ts">
 
 <h3 align="left">Desenvolvimento Backend</h3>
-<img src="https://skillicons.dev/icons?i=java,python,cs">
+<img src="https://skillicons.dev/icons?i=java,python,cs, spring">
 
 <h2 align="left">Linguagens de programação e ferramentas caso os icones não carreguem:</h2>
 <h3 align="left">Desenvolvimento Web</h3>
-<h3>HTML, CSS, JAVASCRIPT, ANGULAR, BOOTSTRAP, FIGMA, TYPESCRIPT</h3>
+<h3>HTML, CSS, JAVASCRIPT, ANGULAR, REACTJS, NEXTJS, BOOTSTRAP, FIGMA, TYPESCRIPT</h3>
 
 <h3 align="left">Desenvolvimento Backend</h3>
 <h3>Java, Python, C#</h3>
