@@ -18,4 +18,4 @@ Após isso, participei de diversos projetos universitários e pessoais na área 
 <h3>HTML, CSS, SASS, JAVASCRIPT, ANGULAR, REACTJS, NEXTJS, BOOTSTRAP, FIGMA, TYPESCRIPT</h3>
 
 <h3 align="left">Desenvolvimento Backend</h3>
-<h3>Java, Python, C#, Spring boot</h3>
+<h3>Java, Python, C#, Spring boot, NodeJS</h3>
