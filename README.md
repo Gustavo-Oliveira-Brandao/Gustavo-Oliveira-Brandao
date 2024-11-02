@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Com um ano e meio de experiência prática em desenvolvimento web, possuo habilidades sólidas para criar aplicações completas, com foco em soluções práticas e eficientes. Sempre busco aplicar as melhores práticas de programação e estou constantemente estudando para ampliar meus conhecimentos em desenvolvimento full stack. Sou um profissional disciplinado, resiliente e versátil, sempre em busca de evolução.
+Com 2 anos de conhecimento em desenvolvimento web, possuo habilidades sólidas para criar aplicações completas, com foco em soluções práticas e eficientes. Sempre busco aplicar as melhores práticas de programação e estou constantemente estudando para ampliar meus conhecimentos em desenvolvimento full stack. Sou um profissional disciplinado, resiliente e versátil, sempre em busca de evolução.
 
 Durante os últimos anos, tive a oportunidade de trabalhar na Tecban como auxiliar administrativo. Essa experiência foi repleta de aprendizado e desafios da qual serei eternamente grato. Desenvolvi habilidades administrativas e aprendi a como atuar em um ambiente corporativo.
 
