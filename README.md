@@ -11,11 +11,11 @@ Após isso, participei de diversos projetos universitários e pessoais na área 
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,angular,react,nextjs,bootstrap,figma,ts">
 
 <h3 align="left">Desenvolvimento Backend</h3>
-<img src="https://skillicons.dev/icons?i=java,python,cs,spring,nodejs">
+<img src="https://skillicons.dev/icons?i=java,python,cs,spring,nodejs,mongodb">
 
 <h2 align="left">Linguagens de programação e ferramentas caso os icones não carreguem:</h2>
 <h3 align="left">Desenvolvimento Web</h3>
 <h3>HTML, CSS, SASS, JAVASCRIPT, ANGULAR, REACTJS, NEXTJS, BOOTSTRAP, FIGMA, TYPESCRIPT</h3>
 
 <h3 align="left">Desenvolvimento Backend</h3>
-<h3>Java, Python, C#, Spring boot, NodeJS</h3>
+<h3>Java, Python, C#, Spring boot, NodeJS, MongoDB</h3>
