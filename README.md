@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Eu sou um desenvolvedor de software fullstack, em busca de especialização em desenvolvimento web e mobile. Possuo experiência prática de 1 ano e meio, adquirida com o desenvolvimento de projetos pessoais, com o mais recente sendo o Assistente T20, uma plataforma de criação de personagens para Tormenta20 e Império de Jade.
+Eu sou um desenvolvedor de software fullstack, em busca de especialização em desenvolvimento web e mobile. Possuo conhecimento fullstack, adquirida com o desenvolvimento de projetos pessoais, com o mais recente sendo o Assistente T20, uma plataforma de criação de personagens para Tormenta20 e Império de Jade.
 Estou o tempo todo em busca de expandir meu repertório de conhecimentos com linguagens do mercado como Typescript, Java e C#, a fim de sempre entregar projetos completos, de código limpo e eficientes.
 
 <h2 align="left">Linguagens de programação e ferramentas:</h2>
