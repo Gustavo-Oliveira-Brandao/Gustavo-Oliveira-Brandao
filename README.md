@@ -16,3 +16,5 @@ Estou o tempo todo em busca de expandir meu repertório de conhecimentos com lin
 
 <h3 align="left">Desenvolvimento Backend</h3>
 <h3>Java, Python, C#, Spring boot, NodeJS, MongoDB, TypeORM.</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Oliveira-Brandao&layout=donut)](https://github.com/Gustavo-Oliveira-Brandao/github-readme-stats)
