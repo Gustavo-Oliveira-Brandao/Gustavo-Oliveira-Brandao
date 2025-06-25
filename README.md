@@ -11,4 +11,6 @@ Durante os últimos anos, eu desenvolvi algumas habilidades:
 - **Ferramentas:** Github, Figma, Data Grip, Microsoft Office (Word, Powerpoint, Excel), SAP GUI.
 - **Soft Skills:** Comunicação eficaz, atendimento ao cliente, trabalho em equipe, proatividade, organização, empatia, resolução de problemas, paixão por aprender, criatividade e técnicas de vendas.
 
+Meu objetivo atual é estudar para me especializar em desenvolvimento web e mobile, onde eu poderei construir aplicações robustas e escaláveis de grande sucesso.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Oliveira-Brandao&layout=compact)](https://github.com/Gustavo-Oliveira-Brandao/github-readme-stats)
