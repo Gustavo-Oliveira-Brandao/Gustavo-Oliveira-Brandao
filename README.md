@@ -1,20 +1,12 @@
 ### Olá! 👋
 
-Eu sou um desenvolvedor de software fullstack, em busca de especialização em desenvolvimento web e mobile. Possuo conhecimento fullstack, adquirida com o desenvolvimento de projetos pessoais, com o mais recente sendo o Assistente T20, uma plataforma de criação de personagens para Tormenta20 e Império de Jade.
-Estou o tempo todo em busca de expandir meu repertório de conhecimentos com linguagens do mercado como Typescript, Java e C#, a fim de sempre entregar projetos completos, de código limpo e eficientes.
+Eu me chamo Gustavo! Sou apaixonado por desenvolvimento de software desde que me conheço por gente e estou sempre atrás de novos desafios onde posso buscar soluções inovadoras. Me graduei em análise e desenvolvimento de sistemas na FIAP e atualmente estou desenvolvendo alguns projetos para expandir meu repertório.
 
-<h2 align="left">Linguagens de programação e ferramentas:</h2>
-<h3 align="left">Desenvolvimento Web</h3>
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,angular,react,nextjs,bootstrap,figma,ts">
-
-<h3 align="left">Desenvolvimento Backend</h3>
-<img src="https://skillicons.dev/icons?i=java,python,cs,spring,nodejs,mongodb">
-
-<h2 align="left">Linguagens de programação e ferramentas caso os icones não carreguem:</h2>
-<h3 align="left">Desenvolvimento Web</h3>
-<h3>HTML, CSS, SASS, JAVASCRIPT, ANGULAR, REACTJS, NEXTJS, BOOTSTRAP, FIGMA, TYPESCRIPT</h3>
-
-<h3 align="left">Desenvolvimento Backend</h3>
-<h3>Java, Python, C#, Spring boot, NodeJS, MongoDB, TypeORM.</h3>
+- Linguagens de programação: Javascript, Typescript, Java, C#, PL/SQL, Kotlin.
+- Desenvolvimento Front-end: HTML, CSS, React.js, React Native, Android Jetpack Compose, Angular, React Hook Forms, React Router, Tanstack/React Query, Angular Reactive Forms, Zod, Electron.
+- Desenvolvimento Back-end: ASP.NET, Spring, Node.js, Hibernate, JPA, Entity Framework, Zod, Electron.
+- Bancos de dados: MySQL, PostgreSQL, SQLite, Oracle SQL, MongoDB.
+- Ferramentas: Github, Figma, Data Grip, Microsoft Office (Word, Powerpoint, Excel), SAP GUI.
+- Soft Skills: Comunicação eficaz, atendimento ao cliente, trabalho em equipe, proatividade, organização, empatia, resolução de problemas, paixão por aprender, criatividade e técnicas de vendas.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Oliveira-Brandao&layout=compact)](https://github.com/Gustavo-Oliveira-Brandao/github-readme-stats)
